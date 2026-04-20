@@ -50,7 +50,7 @@ dig example.com +trace         # تتبع مسار الاستعلام
 <h3 dir="rtl">🔧 البناء من المصدر</h3>
 <p dir="rtl">إذا أردت بناء الملف التنفيذي بنفسك:</p>
 <pre dir="ltr">
-git clone https://github.com/abdo_hak47/dig-for-windows.git
+git clone https://github.com/AHX47/dig-for-windows.git
 cd dig-for-windows
 build\build.bat
 </pre>
