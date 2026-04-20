@@ -1,0 +1,27 @@
+======================================================================
+                     INSTALLATION COMPLETE
+======================================================================
+
+Dig for Windows has been successfully installed on your computer.
+
+IMPORTANT: Close and re-open any open Command Prompt windows
+for the PATH changes to take effect.
+
+QUICK TEST:
+   1. Open Command Prompt (cmd.exe)
+   2. Type: dig google.com
+   3. You should see DNS query results.
+
+USAGE EXAMPLES:
+   dig example.com                     (Standard A record lookup)
+   dig example.com MX                  (Mail server lookup)
+   dig example.com NS                  (Nameserver lookup)
+   dig -x 8.8.8.8                      (Reverse DNS lookup)
+   dig example.com +short              (Short output)
+
+For full help, type: dig -h
+
+======================================================================
+Thank you for installing!
+- abdo_hak47, Laghouat, Algeria
+======================================================================

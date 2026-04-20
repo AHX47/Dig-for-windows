@@ -1,0 +1,20 @@
+======================================================================
+                DIG FOR WINDOWS - STANDALONE EDITION
+======================================================================
+
+Welcome to the dig installer for Windows!
+
+This utility is a standalone Windows port of the famous BIND dig tool.
+It requires NO Python installation, NO external libraries.
+
+Author:  abdo_hak47
+From:    Laghouat, Algeria
+Affiliation: Student at University Amar Telidji
+
+This software is free and open-source.
+
+Please ensure you have Administrator privileges to install globally.
+After installation, the command 'dig' will be available from any
+Command Prompt or PowerShell window.
+
+Press Next to continue.
