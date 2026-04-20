@@ -65,7 +65,7 @@ build\build.bat
 </p>
 
 <h3 dir="rtl">📜 الترخيص</h3>
-<p dir="rtl">هذا المشروع مرخص تحت <a href="LICENSE">MIT License</a> – لك مطلق الحرية في استخدامه وتعديله.</p>
+<p dir="rtl">هذا المشروع مرخص تحت <a href="https://github.com/AHX47/Dig-for-windows/blob/main/License.txt">MIT License</a> – لك مطلق الحرية في استخدامه وتعديله.</p>
 
 <hr>
 
@@ -120,4 +120,4 @@ build.bat
 </p>
 
 <h3>📜 License</h3>
-<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+<p>This project is licensed under the <a href="https://github.com/AHX47/Dig-for-windows/blob/main/License.txt">MIT License</a>.</p>
